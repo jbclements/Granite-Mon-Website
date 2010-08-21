@@ -3,15 +3,107 @@ layout: default
 title: Testing Markdown
 ---
 
-This is a paragraph
+# The Long Island / Granite Mon Challenge #
 
-This is another one.
+The Long Island Challenge is a loosely organized annual event, and that's about all I can say with any real confidence.
 
-Sorry, forgot a period on the first para.
+Well, okay, how about this: The Long Island Challenge, more recently the
+GraniteMonChallenge (and even more ephemerally the GraniteDogChallenge), starts
+with a three-mile swim from Long Island (in BlueHillBay) to the mouth of the
+Harbor itself.  It was the brainchild (if you really want to call it that) of
+Justin Pollard and Ben Walker, who decided to swim from ... well, from Long
+Island to the mouth of the Harbor.  Please, someone correct me if I'm
+wrong. They made it, and since then, so have a lot of others.  The event has
+moved around a bit, and more recently has included other pieces and parts, but
+is completely and utterly non-competitive.  You might call it more of an outing
+than a challenge, but it doesn't have the same ring to it.
+
+There's also been some talk of making the Long Island Challenge a benefit for
+the BlueHillHeritageTrust.  Some money went their way last year, but this
+hasn't yet really taken off.
+
+## The Swim Part ##
+
+BlueHillBay is a nice place to swim.  Well, sorta.  We get up early and boat
+over and stand on the rocks and seaweed and feeling cold, and then we jump in
+because there's no real way out of it at that point.  Traditionally, we haven't
+worn WetSuits unless you call slathering your BodyInCrisco a wetsuit. But we do
+have ChaseBoats.
+
+Here's the route, more or less:
+
+[html <img src="http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/little-chart.jpg">]
+
+## The Bike Part
+
+Then we bike from BlueHill to MountKatahdin.
+
+## The Climb Part
+
+Then we climb up MountKatahdin.
+
+## History 
+
+What follows is a fragmentary history of the event.  Please please please contribute your memories and your pictures. Here's the best way to AddPictures that I know of.
+
+
+- 1995 : FirstTime
+- 1996 : SecondTime
+- 1997 : ThirdTime
+- 1998 : FourthTime
+        - FourthTimePartOne
+        - FourthTimePartTwo
+- 1999 : FifthTime
+- 2000 : SixthTime
+- 2001 : FirstGraniteMon
+- 2002 : SecondGraniteMon
+- 2003 : ThirdGraniteMon
+- 2004 : FourthGraniteMon
+
+## Participants
+
+In alphabetical order, an incomplete list of all participants in the Long Island Challenge. Please add to this list:
+
+- Anika Clements
+- JohnClements
+- Oisin Curran
+- Oliver Grantham
+- David Gutcheon
+- Bart Hayes
+- Ted Heyd
+- Bill Hinkley
+- Sean Love
+- Ann Neuhauser
+- JustinPollard
+- Mark Read
+- WingTaylor
+- Ben Walker
+- Dan Walker
+- Andy Wanning
+
+... and those who can't be alphabetical until they get a last name:
+
+- Anya
+- Byron
+- Beka
+
+## Other Long Island Challenges
+
+A quick Google search turns up *lots* of things called the Long Island Challenge.  Hundreds and hundreds of hits, actually.  There's an academic competition for high school students, a track meet, and lots of other things too.  So perhaps the Granite Mon is a better choice.
+
 
 1995 -- The First Year
 ======================
 
-Justin & Ben
+Really, Justin or Ben could tell you more than I (JohnClements) could.  Justin
+and Ben jumped in the water and swam from here to there (or more accurately,
+from there to here). They stuck together, and had no support boat (IIRC), so it
+was pretty much literally sink or swim.  Fortunately, neither one sank.
+
+Actually, if memory serves and that is a big if, we had Matt Semler chasing us
+but in the middle of the bay he realized that he needed gas so he left us to go
+to the KYC and fuel up. (BWW)
+
+I'm not aware of any photos from this year.
 
 
