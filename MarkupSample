@@ -1,0 +1,181 @@
+Important things WikiMarkup (and MoshiMoshi's markup in particular) should support:
+
+ - block structure from indentation
+   - so sublists follow on naturally
+   - both with and without gaps between items
+   - and even with
+     multi-line paragraphs!
+ - Of course, WikiWords need to be supported
+	- don't forget that WikiWords is an AutomaticPlural (hmm which
+	  on second thoughts seems like a bad idea - it's good enough
+	  to simply arrange for either the PluralForm or the
+	  SingularForm to have a page of its own linking to the
+	  correct page)
+ - Automagic links in text http://LocalHost:8080/foo/bar?zot&baz+%20bot,
+   mailto:tonyg@kcbbs.gen.nz.
+ - Footnotes [footnote yeah, right]
+ - Preformatted text in a number of styles:
+     @code
+	Test
+	More testing
+		Yet more!
+               wheee!
+
+	Further testing
+
+Here's another top-level paragraph.
+
+ #. numbered lists
+ #. should be supported.
+
+    Hey, you should be able to have paragraphs inside list elements!
+    Everything should just *follow on
+    naturally*. Bold should split across lines.
+
+Need separator lines:
+
+----
+
+What about TOC-generating heading elements?
+
+@h1 Toplevel
+
+@h2 Second-level
+
+@h3 Third-level
+
+  Preformatted *bold
+  should* span lines, and should be mono-
+  spaced.
+
+What about paragraphs where
+- for instance - you have a
+parenthesised expression delimited
+by dashes?
+
+Want inline:
+ - [b bold]
+ - [i italic]
+ - [u [i [b bold, underlined italic]]]
+ - [code ThisIsCode]
+ - [pre ThisIsPre]
+ - [link "http://localhost/" links to some other place]
+
+Playing with [u [i [b bold, underlined italic LinksToElsewhere and LinksTo MoshiMoshi]]].
+
+There could also be alternative markups:
+ - something *like* this
+ - something ''like'' this
+ - something ''*like*'' this
+ - something *''like''* this
+
+Need attachments, images, random resources both in- and out-of-line,
+and if out-of-line, with different linking styles. This is basically
+switching back and forth between various markup sublanguages.
+
+What about escaping of characters? [br]
+Backslash: \ [br]
+Backslash doesn't escape itself: \\ [br]
+obrack: \[ [br]
+cbrack: \] [br]
+Backslash followed by obrack: \\[ [br]
+Backslash followed by cbrack: \\] [br]
+
+Other chars should be passed through, as per Windows paths \\katana\project\lshift. Similarly,[br]
+what about forced breaks?
+
+Need to be able to escape into [sxml (font ((color "red")) "SXML") trailing] or
+[html <b>HTML</b>], dot, etc. - special case of attachments
+really. [comment Also need to be able to put random comments in.][][nonexistent]
+
+Block escapes need to be supported:
+  @html
+   <table bgcolor="red">
+	<tr>
+    <td><font color="white">
+    bar</font></td></tr>
+   </table>
+  @code
+	line 1
+	line 2
+
+	line 4 (line 3 is empty, and should show as blank)
+
+Code example:
+ @code
+     Need attachments, images, random resources both in- and out-of-line,
+     and if out-of-line, with different LinkingStyles. This is basically
+     switching back and forth between various markup sublanguages.
+Pre example:
+ @pre
+     Need attachments, images, random resources both in- and out-of-line,
+     and if out-of-line, with different LinkingStyles. This is basically
+     switching back and forth between various markup sublanguages.
+
+Figure 1: A simple embedded graph.
+  @dot "fig1"
+	digraph G {
+		size = "4,4";
+		//ratio = fill;
+		//rankdir = LR;
+		a -> b -> c -> d;
+		f [shape="record", label="<a>a| xorch |<b>b"];
+		e -> f:a -> g;
+		h -> f:b;
+		i -> f:b;
+		i -> f:a;
+		i -> g;
+		g -> b;
+		g -> c;
+		f:b -> a;
+	}
+
+Figure 2: Another embedded graph.
+  @neato "fig2"
+	graph G {
+		size = "4,4";
+		//ratio = fill;
+		a -- b -- c -- d -- a;
+		c -- g;
+		e -- f -- g -- h -- e;
+		d -- h; c -- f; h -- a; g -- d;
+		a -- aa; b -- bb; c -- cc; f -- ff; e -- ee; h -- hh;
+	}
+
+[attachment foo.gif]
+
+[html <!--]But not this kind of comment.[html -->]
+
+Some example paragraphs:
+
+     Need attachments, images, random resources both in- and out-of-line,
+     and if out-of-line, with different LinkingStyles. This is basically
+     switching back and forth between various markup sublanguages.
+
+     Need attachments, images, random resources both in- and
+     out-of-line, and if out-of-line, with different linking
+     styles. This is basically switching back and forth between
+     various markup sublanguages.
+
+TEST1:[sxml (tt "a" "\n" "b" "\n" "c" "d")]:TEST2
+
+z block structure from indentation
+  y so sublists follow on naturally
+  x both with and without gaps between items
+  w and even with
+    multi-line paragraphs!
+v Of course, WikiWords need to be supported
+  u don't forget that WikiWords is an AutomaticPlural
+t Automagic links in text
+s Footnotes
+r Preformatted text in a number of styles:
+
+
+#. Text split into lines
+#. Lines have whitespace trimmed *from the end only*.
+#. Lines are untabified to 8-space tabstops
+#. Indent of each line is measured: [literal [line] --> [(indent, line)]]
+#. Stack is maintained
+
+] this is trailing an unbalanced ] bracket.
+  But this is rendered! ] this isn't.

@@ -1,0 +1,17 @@
+Currently, the only way to add pictures that I'm aware of is to embed references to them in an \[html ...\] escape.
+
+To be more procedural: 
+
+#. First, you need to get your pictures into a web location, so that they can be referenced by a URL.  For instance, I pay the nice folks at Pair.com to host my brinckerhoff.org web site, so I can put pictures on their server and then refer to them with URLs like this one: http://www.brinckerhoff.org/images/brinck-portrait.jpg .
+
+#.  Then, you need to click on the EditThisPage link at the bottom of each MoshiMoshi page so you can add things.
+
+#. At the place where you want the picture to appear, insert a link like this (to see what you should actually type, click on the edit this page link at the bottom of *this* page):
+
+#. What you've added is just a link; it doesn't copy the picture from your url.  In other words, if you move the picture from the "place" that the link refers to, the link will stop working.
+
+[html <img src="http://www.brinckerhoff.org/images/brinck-portrait.jpg">]
+
+Okay, yes, that's a giant pain in the butt.  Wouldn't it be marvelous if you could just paste the picture into the editing window.  But right now, you can't.  
+
+But please!  Don't let this stop you.  As a last resort, send your pictures to JohnClements and he (I) will scan them in for you.

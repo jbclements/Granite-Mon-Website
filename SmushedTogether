@@ -1,0 +1,22 @@
+SmushedTogether words are two capitalized words smushed together.  In particular, my possibly incorrect understanding is that a SmushedTogether word must be ...
+
+Okay, I *was* incorrect.  It looks like I can express it as the following regexp:
+
+\[A-Z\]+\[^A-Z\]+\[A-Z\]+\[^A-Z\]+
+
+Essentially:  one or more capital letters, one or more noncaps, then another capital, then one or more noncaps.
+
+To see if I'm correct, see which of the following come out as links:
+
+- AaAa
+- AaA
+- AAA
+- AAAA
+- AA
+- AAaA
+- AAaAa
+- 12
+- Aaa1
+- AaaA1
+- AaaAaa1
+- A1A1
