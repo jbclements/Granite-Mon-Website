@@ -32,7 +32,7 @@ have ChaseBoats.
 
 Here's the route, more or less:
 
-![Little Chart](/images/little-chart.jpg)
+![Little Chart](images/little-chart.jpg)
 
 ## The Bike Part
 
