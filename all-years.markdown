@@ -32,7 +32,7 @@ have ChaseBoats.
 
 Here's the route, more or less:
 
-[html <img src="http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/little-chart.jpg">]
+![Little Chart](/images/little-chart.jpg)
 
 ## The Bike Part
 
