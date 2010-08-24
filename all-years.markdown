@@ -44,7 +44,9 @@ Then we climb up MountKatahdin.
 
 ## History 
 
-What follows is a fragmentary history of the event.  Please please please contribute your memories and your pictures. Here's the best way to AddPictures that I know of.
+What follows is a fragmentary history of the event.  Please please please
+contribute your memories and your pictures. Here's the best way to AddPictures
+that I know of.
 
 
 ### 1995 : The First Time
@@ -87,7 +89,7 @@ magnificent triumph!
 
 ### 1997 : The Third Time
 
-[html <img src="http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/1997/1997-faces.jpg">]
+![alt text](images/1997/1997-faces.jpg)
 
 ----
 
@@ -95,13 +97,13 @@ There are actually some pictures from this go-round, so you can get some idea of
 
 These pictures were all taken by Mary McHenry, and I hope she doesn't mind. (Mary?)
 
-[html <img src="http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/1997/Pre.jpg">]
+![alt text](images/1997/Pre.jpg)
 
-[html <img src="http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/1997/Post-1.jpg">]
+![alt text](images/1997/Post-1.jpg)
 
-[html <img src="http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/1997/Post-2.jpg">]
+![alt text](images/1997/Post-2.jpg)
 
-[html <img src="http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/1997/jbc-in-water.jpg">]
+![alt text](images/1997/jbc-in-water.jpg)
 
 ### 1998 : The Fourth Time
 
@@ -115,22 +117,22 @@ Molly just added some pictures.
 
 Mark Read, Ben Walker:
 
-[html <img src="http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/1998/part-1/coldben.jpg">]
+![alt text](images/1998/part-1/coldben.jpg)
 
 On the dock, after the swim:
 
-[html <img src="http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/1998/part-1/dock.jpg">]
+![alt text](images/1998/part-1/dock.jpg)
 
 Brunch.  Molly supplies the following list of people (with some holes):
 From Ben's Head, clockwise: Ben Walker, Andy Wanning, Will Becton, a guy who
 hung out with us that summer, Mark Read, Sally the Yoga instructor, Alice
 Clements, ?, ?(looks really familiar), ?, JP
 
-[html <img src="http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/1998/part-1/postswimbrunch.jpg">]
+![alt text](images/1998/part-1/postswimbrunch.jpg)
 
 #### FourthTimePartTwo
 
-[html <img src="http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/1998/1998-faces.jpg">]
+![alt text](images/1998/1998-faces.jpg)
 
 ----
 
@@ -143,9 +145,9 @@ This swim included four swimmers:
 
 Pictures.  These were taken by Robin Clements:
 
-[html <img src="http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/1998/Dock-1.jpg">]
+![alt text](images/1998/Dock-1.jpg)
 
-[html <img src="http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/1998/Dock-3.jpg">]
+![alt text](images/1998/Dock-3.jpg)
 
 ### 1999 : The Fifth Time
 
@@ -214,7 +216,7 @@ This last year: things must write about:
 
 ### 2003 : The Third Granite Mon
 
-[html <img src="http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/2003/lic-03-fisheye.jpg">]
+![alt text](images/2003/lic-03-fisheye.jpg)
 
 Well, the 2003 GraniteMonChallenge has come and gone. It did in fact happen on August 23, and
 six intrepid swimmers showed up at 6:00 am:
@@ -234,7 +236,7 @@ The wind picked up a bit during the second half, and it was pretty choppy (well,
 
 This picture (and the prior one) were taken by Wing Taylor, despite his appearing in near-entirety in each one.  Hmmm.
 
-[html <img src="http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/2003/lic-03-reg.jpg">]
+![alt text](images/2003/lic-03-reg.jpg)
 
 @h3 The Ride
 
@@ -249,7 +251,7 @@ I took all their bicycles away and they drove north toward East Millinocket.
 
 Here's a picture of the three of them:
 
-[html <img src = "http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/2003/3 dogs.jpg">]
+[html <img src = "images/2003/3 dogs.jpg">]
 
 All of these pictures were taken by Abby... oh dear, I don't know her last name.  Anyone?
 
@@ -257,21 +259,21 @@ All of these pictures were taken by Abby... oh dear, I don't know her last name.
 
 Well, I wasn't there, so I really can't say much; the day was unbelievably cold, with an early-season cold front blasting Canadian air down as far as Blue Hill.  Evidently, the conditions on the mountain made it more or less un-climb-able.  Details, anyone?  Fortunately, Abby took a bunch of pictures. Here's one of Abby:
 
-[html <img src = "http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/2003/Abby.jpg">]
+[html <img src = "images/2003/Abby.jpg">]
 
 As I wasn't here, I can only guess at a chronological ordering on these.  Here's one labeled "lunch":
 
-[html <img src = "http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/2003/3 dogs-lunch.jpg">]
+[html <img src = "images/2003/3 dogs-lunch.jpg">]
 
 Here's one of the lads in front of the mountain:
 
-[html <img src = "http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/2003/3 dogs & mtn.jpg">]
+[html <img src = "images/2003/3 dogs & mtn.jpg">]
 
 And finally, two pictures of the atmospheric conditions that made the final ascent impossible:
 
-[html <img src = "http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/2003/Mtn valley.jpg">]
+[html <img src = "images/2003/Mtn valley.jpg">]
 
-[html <img src = "http://www.brinckerhoff.org/JBCsite/longIslandChallenge/images/2003/Mtn clouds.jpg">]
+[html <img src = "images/2003/Mtn clouds.jpg">]
 
 ### 2004 : The Fourth Granite Mon
 
