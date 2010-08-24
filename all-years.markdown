@@ -304,7 +304,7 @@ Here's one of the lads in front of the mountain:
 
 And finally, two pictures of the atmospheric conditions that made the final ascent impossible:
 
-![alt](images/2003/bossy-cow.jpg)
+![alt](images/2003/Mtn-valley.jpg)
 
 ![alt](images/2003/Mtn-clouds.jpg)
 
@@ -312,9 +312,6 @@ And finally, two pictures of the atmospheric conditions that made the final asce
 
 ### 2004 : The Fourth Granite Mon
 
-Please, tell us anything you know about the upcoming 2004 Granite Mon Challenge.
-
-Please?
 
 ---
 
