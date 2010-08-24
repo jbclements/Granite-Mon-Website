@@ -41,13 +41,16 @@ Then we bike from Blue Hill to Mount Katahdin.
 
 Then we climb up Mount Katahdin.
 
+---
+
 ## History 
 
 What follows is a fragmentary history of the event.  Please please please
 contribute your memories and your pictures by e-mailing them
 to <aoeugranitemon@brinckerhoff.org>.
 
-
+---
+  
 ### 1995 : The First Time
 
 Really, Justin or Ben could tell you more than I (John Clements) could.  Justin
@@ -60,6 +63,8 @@ but in the middle of the bay he realized that he needed gas so he left us to go
 to the KYC and fuel up. (BWW)
 
 I'm not aware of any photos from this year.
+
+---
 
 ### 1996 : The Second Time
 
@@ -85,6 +90,8 @@ To make a long story short, Andy and I grew sufficiently far apart that the
 current pulled us in different directions, and we made landfall at points that
 were more than two miles apart.  Fortunately, nobody died, and the day ended in
 magnificent triumph!
+
+---
 
 ### 1997 : The Third Time
 
@@ -205,6 +212,8 @@ pedestrians.
 
 Gee whiz, I hope someone has some pictures.
 
+---
+
 ### 2002 : The Second Granite Mon
 
 This last year: things must write about:
@@ -218,6 +227,8 @@ This last year: things must write about:
 - Lots of ibuprofen
 - Gorgeous climb (as usual)
 
+---
+
 ### 2003 : The Third Granite Mon
 
 ![alt text](images/2003/lic-03-fisheye.jpg)
@@ -225,7 +236,7 @@ This last year: things must write about:
 Well, the 2003 GraniteMonChallenge has come and gone. It did in fact happen on
 August 23, and six intrepid swimmers showed up at 6:00 am:
 
-@h3 The Swim
+The swim:
 
 - JustinPollard
 - Ben Walker
