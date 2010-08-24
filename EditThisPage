@@ -1,7 +1,0 @@
-The principle of a WikiWiki (or just Wiki) is threefold; 
-
-#.  It introduces a naming scheme which maps names (specifically, names with at least two capitalized words SmushedTogether) to web pages. 
-#. It makes it possible for anyone at all to edit those pages, just by clicking on the link at the bottom of the page (see it down there?).
-#. The format in which you edit the page is designed to be very readable, and *any* instance of a SmushedTogether word is automatically turned into a link. 
-
-This particular Wiki engine is called MoshiMoshi.

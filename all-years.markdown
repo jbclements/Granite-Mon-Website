@@ -280,7 +280,7 @@ I took all their bicycles away and they drove north toward East Millinocket.
 
 Here's a picture of the three of them:
 
-![alt](images/2003/3 dogs.jpg)
+![alt](images/2003/3-dogs.jpg)
 
 All of these pictures were taken by Abby... oh dear, I don't know her last name.  Anyone?
 
@@ -296,17 +296,17 @@ pictures. Here's one of Abby:
 
 As I wasn't here, I can only guess at a chronological ordering on these.  Here's one labeled "lunch":
 
-![alt](images/2003/3 dogs-lunch.jpg)
+![alt](images/2003/3-dogs-lunch.jpg)
 
 Here's one of the lads in front of the mountain:
 
-![alt](images/2003/3 dogs & mtn.jpg)
+![alt](images/2003/3-dogs-mtn.jpg)
 
 And finally, two pictures of the atmospheric conditions that made the final ascent impossible:
 
-![alt](images/2003/Mtn valley.jpg)
+![alt](images/2003/Mtn-valley.jpg)
 
-![alt](images/2003/Mtn clouds.jpg)
+![alt](images/2003/Mtn-clouds.jpg)
 
 ---
 
