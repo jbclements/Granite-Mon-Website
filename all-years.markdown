@@ -99,9 +99,9 @@ There are actually some pictures from this go-round, so you can get some idea
 of what the swim looks like.  This was the first year with a bunch of people;
 It may have been the year that it got the Long Island Challenge title.  Also,
 after the problems of the prior year, this running of the challenge featured a
-more organized ChaseBoats group, with one boat for each swimmer.
+more organized chase boats group, with one boat for each swimmer.
 
-These pictures were all taken by Mary McHenry, and I hope she doesn't mind. (Mary?)
+These pictures were all taken by Mary McHenry, and I hope she doesn't mind.
 
 ![alt text](images/1997/Pre.jpg)
 
@@ -312,10 +312,104 @@ And finally, two pictures of the atmospheric conditions that made the final asce
 
 ### 2004 : The Fourth Granite Mon
 
+Experimenting!
+
+<div id="theo"> 
+  <p>If nothing appears here, something has gone wrong!</p> 
+</div> 
+
+<script type="text/javascript" src="http://api.flickrshow.com/v7/flickrshow.js"></script> 
+<script type="text/javascript"> 
+		var theo = new flickrshow('theo', {
+		    'set':'72157602303812415'
+		});
+	</script>
 
 ---
 
 ### 2005 : The Fifth Granite Mon
+
+Andy writes:
+
+Essentially, it was mostly a wash, primarily because of the 70% chance of
+thunderstorms we heard about for Katahdin after finishing the swim.  We
+realized that with those odds, as JP put it "this would create a 99% chance
+that the park rangers wouldn't allow us up Katahdin tomorrow".  So that
+would've been a lot of effort (and expense, a la hotel & food) for naught.
+
+Then it was also raining sporadically as we sat around JP's pondering what to
+do next, and after the swim, which I will explain below, we were pretty beat of
+course and not exactly psyched to ride bikes in the rain.  However, we were
+still sort of psyched to bike around the peninsula.  At the same time, Hillary
+was going to go hiking in Acadia and was encouraging us to come with her
+instead, so this was the other option.  Unfortunately for the bike option, one
+of Oliver's bikes, the one I was going to ride, had a hole in the inner tube -
+so he patched that one, and found another hole, so he patched that one, and
+found another hole, and so on, and after 4 holes it was getting late and that
+basically broke the ol' camel's back.  So it was off to hiking in Acadia.
+
+
+Which was actually quite nice of course - we hiked around Jordan Pond, up a
+mountain in the fog, and back down and around to the Jordan Pond restaurant,
+forget the name, and had a really nice meal there.  So that all worked out
+pretty well.
+
+
+But of course I digress.  The swim was, in two words, f*cking freezing.  I
+would have given my left nut (and very nearly did to frostbite) to have that
+nifty little wetsuit of yours.  Just getting out of the boat at Long Island and
+picking around the rocks & seaweed while applying generous amounts of Crisco
+was pretty miserable, though fun in a we're-totally-nuts kind of way.  And
+wading into the water was more or less hellacious, and then diving in the water
+was ridiculous, especially the freezing-the-face part.  I thought eventually my
+face would numb up like the rest of my body, but it never really did, so I
+would just do a few crawl strokes and then do the side- and backstrokes and try
+to keep my face out of the water.  And that was after I had summoned over Sara
+to give me the can of Crisco so I could re-apply the stuff on my face.
+
+
+So I lasted maybe half an hour, as did Justin, as the other skinny guy.  I got
+into Sara’s boat, and my teeth started chattering a few minutes later, and
+didn’t stop until we got to the Becton’s dock another hour or whatever later.
+So, just in case you were wondering, we were F*CKING COLD.  When we caught up
+to Oliver, who was churning along at about 2 knots I suppose and leading the
+pack of 2, he yelled to us “how much further ‘til the dock?”, and after we told
+him, he added “My goodness it’s cold”.
+
+So he finally dragged his numb body onto the dock and sat there shivering for a
+while, but was very pleased of course to have actually finished.  Maybe 15 or
+20 minutes later, Ben calmly ascented the ladder, and when asked about the
+temperature, said “Actually I got used to it pretty fast”, not kidding a
+smidgeon.  This provided much mirth and shocking disbelief for our band of
+swimming, well, supporters, which at this point consisted of Nate, Hillary,
+Howie, Vicki, Cuzco the dog, and Hillary’s dog as well as the aforementioned
+Sara and JP and me.
+
+So we called it a job well done and proceeded to our respective showers, and
+then onto JP’s house for an absolutely delectable brunch consisting of
+scrambled eggs, toast with pesto spread, blueberries, and some other stuff
+which I can’t remember.  Abby and The Judge joined us at JP's, the latter
+positing the whacky idea of initiating a bike ride that mere mortals might
+actually be interested in, such as biking around the peninsula and then hiking
+up Blue Hill, making it a peninsula event that area people & businesses might
+like to join and/or sponsor.  It was also suggested that we start a non-profit
+associated with the event called “Bibles for Guantanamo” and donate any
+proceeds to a fund of that purpose in order to show our compassion for the
+prisoners being abused in our name there.  However, some may not exactly see
+the sarcastic nature of such an endeavor, so it may be shelved in favor of a
+more broadly inclusive goal such as “Weed for the Fatigued” or something like
+that (actually this just popped into my head, so should not be considered an
+official proposal of any sort).  No, actually there were a few more
+suggestions, but I don’t remember them, so we’ll need some help remembering or
+fresh inspiration if we are to come up with a theme for any fundraiser we may
+want to endeavor next year.
+
+
+Anyway, then we proceeded to the 3-hour council meeting in the driveway, an
+experience perhaps more painful than diving into the Blue Hill Bay water, and
+you know the rest.
+
+
 
 ---
 
@@ -324,6 +418,14 @@ And finally, two pictures of the atmospheric conditions that made the final asce
 ---
 
 ### 2007
+
+For '07, we had a successful swim in the rain.  Swimmers: me (Andy Wanning),
+Mark Read, Oliver Grantham, JP, Ben Walker, I think Jerry.
+Chaseboaters/others: Oliver's wife, his friend Sean or something, Sean(?)'s
+wife, and David who made the brunch.  I'm not sure if the others did the bike
+ride, because Lena & I stayed in BH and then saw mom's play, and then arrived
+in Medway at 1:30 am, got 2 hours of sleep, and then climbed Katahdin with
+everyone.  So yeah, successful Katahdin climb too that year. (AW)
 
 ---
 
@@ -341,6 +443,13 @@ Participants:
 - John Clements
 - Andy Wanning (Andy, can you confirm this?)
 - Justin, were you there?
+
+Andy Writes:
+
+For '08, yes I was there, but I was just a chaseboater, along with Lena
+(Kulikova) and Mark's friend Will Etundi.  There was no other biking/climbing
+that time, 'cuz it was Matt's wedding day.  JP might have done that stuff later
+on in the year though.
 
 ---
 
