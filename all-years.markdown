@@ -89,11 +89,11 @@ magnificent triumph!
 
 ### 1997 : The Third Time
 
-![alt text](images/1997/1997-faces.jpg)
-
-----
-
-There are actually some pictures from this go-round, so you can get some idea of what the swim looks like.  This was the first year with a bunch of people; It may have been the year that it got the LongIslandChallenge title.  Also, after the problems of the prior year, this running of the challenge featured a more organized ChaseBoats group, with one boat for each swimmer.
+There are actually some pictures from this go-round, so you can get some idea
+of what the swim looks like.  This was the first year with a bunch of people;
+It may have been the year that it got the LongIslandChallenge title.  Also,
+after the problems of the prior year, this running of the challenge featured a
+more organized ChaseBoats group, with one boat for each swimmer.
 
 These pictures were all taken by Mary McHenry, and I hope she doesn't mind. (Mary?)
 
@@ -107,11 +107,14 @@ These pictures were all taken by Mary McHenry, and I hope she doesn't mind. (Mar
 
 ### 1998 : The Fourth Time
 
-In 1998, the Long Island Challenge happened twice, because we were badly organized and not everyone could be there at the same time.  So there's really FourthTimePartOne and FourthTimePartTwo.
+In 1998, the Long Island Challenge happened twice, because we were badly
+organized and not everyone could be there at the same time.  So there's really
+FourthTimePartOne and FourthTimePartTwo.
 
-#### FourthTimePartOne
+#### First Running
 
-Pictures? Description?  I think Ann Neuhauser participated in *both* this swim and FourthTimePartTwo.
+Pictures? Description?  I think Ann Neuhauser participated in *both* this swim
+and FourthTimePartTwo.
 
 Molly just added some pictures.
 
@@ -130,11 +133,7 @@ Clements, ?, ?(looks really familiar), ?, JP
 
 ![alt text](images/1998/part-1/postswimbrunch.jpg)
 
-#### FourthTimePartTwo
-
-![alt text](images/1998/1998-faces.jpg)
-
-----
+#### Second Running
 
 This swim included four swimmers:
 
@@ -218,8 +217,8 @@ This last year: things must write about:
 
 ![alt text](images/2003/lic-03-fisheye.jpg)
 
-Well, the 2003 GraniteMonChallenge has come and gone. It did in fact happen on August 23, and
-six intrepid swimmers showed up at 6:00 am:
+Well, the 2003 GraniteMonChallenge has come and gone. It did in fact happen on
+August 23, and six intrepid swimmers showed up at 6:00 am:
 
 @h3 The Swim
 
@@ -230,9 +229,18 @@ six intrepid swimmers showed up at 6:00 am:
 - Wing Taylor
 - Ted Heyd
 
-Most agreed that the water was as warm as it's ever been, though I (John Clements) broke down and wore a wet suit (my excuse is that I was injured in a bike wreck) so I wouldn't know.
+Most agreed that the water was as warm as it's ever been, though I (John
+Clements) broke down and wore a wet suit (my excuse is that I was injured in a
+bike wreck) so I wouldn't know.
 
-The wind picked up a bit during the second half, and it was pretty choppy (well, relatively speaking) by the time we reached the Bectons' dock. Justin, Ben, and I made the full swim, while Andy and Ted climbed out when they got bored ... actually, that swim is pretty darn boring.  Well, when you're not freezing, anyway.  A special mention goes to Wing Taylor, who arrived on three hours sleep and managed to whip out a broad array of strokes to make it from Long Island to the mainland, which is after all the difference between living and dying, in some hypothetical sense.
+The wind picked up a bit during the second half, and it was pretty choppy
+(well, relatively speaking) by the time we reached the Bectons' dock. Justin,
+Ben, and I made the full swim, while Andy and Ted climbed out when they got
+bored ... actually, that swim is pretty darn boring.  Well, when you're not
+freezing, anyway.  A special mention goes to Wing Taylor, who arrived on three
+hours sleep and managed to whip out a broad array of strokes to make it from
+Long Island to the mainland, which is after all the difference between living
+and dying, in some hypothetical sense.
 
 This picture (and the prior one) were taken by Wing Taylor, despite his appearing in near-entirety in each one.  Hmmm.
 
@@ -257,7 +265,11 @@ All of these pictures were taken by Abby... oh dear, I don't know her last name.
 
 @h3 The Climb
 
-Well, I wasn't there, so I really can't say much; the day was unbelievably cold, with an early-season cold front blasting Canadian air down as far as Blue Hill.  Evidently, the conditions on the mountain made it more or less un-climb-able.  Details, anyone?  Fortunately, Abby took a bunch of pictures. Here's one of Abby:
+Well, I wasn't there, so I really can't say much; the day was unbelievably
+cold, with an early-season cold front blasting Canadian air down as far as Blue
+Hill.  Evidently, the conditions on the mountain made it more or less
+un-climb-able.  Details, anyone?  Fortunately, Abby took a bunch of
+pictures. Here's one of Abby:
 
 [html <img src="images/2003/Abby.jpg">]
 
@@ -332,8 +344,8 @@ In alphabetical order, an incomplete list of all participants in the Long Island
 
 Ooh, this list is out of date.  In Progress....
 
-- AnikaClements
-- JohnClements
+- Anika Clements
+- John Clements
 - Oisin Curran
 - Oliver Grantham
 - David Gutcheon
@@ -342,9 +354,9 @@ Ooh, this list is out of date.  In Progress....
 - Bill Hinkley
 - Sean Love
 - Ann Neuhauser
-- JustinPollard
+- Justin Pollard
 - Mark Read
-- WingTaylor
+- Wing Taylor
 - Ben Walker
 - Dan Walker
 - Andy Wanning
@@ -358,7 +370,10 @@ Ooh, this list is out of date.  In Progress....
 
 ## Other Long Island Challenges
 
-A quick Google search turns up *lots* of things called the Long Island Challenge.  Hundreds and hundreds of hits, actually.  There's an academic competition for high school students, a track meet, and lots of other things too.  So perhaps the Granite Mon is a better choice.
+A quick Google search turns up *lots* of things called the Long Island
+Challenge.  Hundreds and hundreds of hits, actually.  There's an academic
+competition for high school students, a track meet, and lots of other things
+too.  So perhaps the Granite Mon is a better choice.
 
 
 
