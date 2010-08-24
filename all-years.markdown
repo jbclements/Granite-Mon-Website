@@ -251,7 +251,7 @@ I took all their bicycles away and they drove north toward East Millinocket.
 
 Here's a picture of the three of them:
 
-[html <img src = "images/2003/3 dogs.jpg">]
+[html <img src="images/2003/3 dogs.jpg">]
 
 All of these pictures were taken by Abby... oh dear, I don't know her last name.  Anyone?
 
@@ -259,21 +259,21 @@ All of these pictures were taken by Abby... oh dear, I don't know her last name.
 
 Well, I wasn't there, so I really can't say much; the day was unbelievably cold, with an early-season cold front blasting Canadian air down as far as Blue Hill.  Evidently, the conditions on the mountain made it more or less un-climb-able.  Details, anyone?  Fortunately, Abby took a bunch of pictures. Here's one of Abby:
 
-[html <img src = "images/2003/Abby.jpg">]
+[html <img src="images/2003/Abby.jpg">]
 
 As I wasn't here, I can only guess at a chronological ordering on these.  Here's one labeled "lunch":
 
-[html <img src = "images/2003/3 dogs-lunch.jpg">]
+[html <img src="images/2003/3 dogs-lunch.jpg">]
 
 Here's one of the lads in front of the mountain:
 
-[html <img src = "images/2003/3 dogs & mtn.jpg">]
+[html <img src="images/2003/3 dogs & mtn.jpg">]
 
 And finally, two pictures of the atmospheric conditions that made the final ascent impossible:
 
-[html <img src = "images/2003/Mtn valley.jpg">]
+[html <img src="images/2003/Mtn valley.jpg">]
 
-[html <img src = "images/2003/Mtn clouds.jpg">]
+[html <img src="images/2003/Mtn clouds.jpg">]
 
 ### 2004 : The Fourth Granite Mon
 
@@ -360,9 +360,6 @@ Ooh, this list is out of date.  In Progress....
 
 A quick Google search turns up *lots* of things called the Long Island Challenge.  Hundreds and hundreds of hits, actually.  There's an academic competition for high school students, a track meet, and lots of other things too.  So perhaps the Granite Mon is a better choice.
 
-
-1995 -- The First Year
-======================
 
 
 
