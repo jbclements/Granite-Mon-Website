@@ -1,15 +1,14 @@
 ---
 layout: default
-title: Testing Markdown
+title: The Granite Mon Challenge
 ---
 
-# The Long Island / Granite Mon Challenge #
-
-The Long Island Challenge is a loosely organized annual event, and that's about all I can say with any real confidence.
+The Long Island Challenge is a loosely organized annual event, and that's about
+all I can say with any real confidence.
 
 Well, okay, how about this: The Long Island Challenge, more recently the
-GraniteMonChallenge (and even more ephemerally the GraniteDogChallenge), starts
-with a three-mile swim from Long Island (in BlueHillBay) to the mouth of the
+Granite Mon Challenge (and even more ephemerally the Granite Dog Challenge), starts
+with a three-mile swim from Long Island (in Blue Hill Bay) to the mouth of the
 Harbor itself.  It was the brainchild (if you really want to call it that) of
 Justin Pollard and Ben Walker, who decided to swim from ... well, from Long
 Island to the mouth of the Harbor.  Please, someone correct me if I'm
@@ -19,7 +18,7 @@ is completely and utterly non-competitive.  You might call it more of an outing
 than a challenge, but it doesn't have the same ring to it.
 
 There's also been some talk of making the Long Island Challenge a benefit for
-the BlueHillHeritageTrust.  Some money went their way last year, but this
+the Blue Hill Heritage Trust.  Some money went their way last year, but this
 hasn't yet really taken off.
 
 ## The Swim Part ##
@@ -36,22 +35,22 @@ Here's the route, more or less:
 
 ## The Bike Part
 
-Then we bike from BlueHill to MountKatahdin.
+Then we bike from Blue Hill to Mount Katahdin.
 
 ## The Climb Part
 
-Then we climb up MountKatahdin.
+Then we climb up Mount Katahdin.
 
 ## History 
 
 What follows is a fragmentary history of the event.  Please please please
-contribute your memories and your pictures. Here's the best way to AddPictures
-that I know of.
+contribute your memories and your pictures by e-mailing them
+to <aoeugranitemon@brinckerhoff.org>.
 
 
 ### 1995 : The First Time
 
-Really, Justin or Ben could tell you more than I (JohnClements) could.  Justin
+Really, Justin or Ben could tell you more than I (John Clements) could.  Justin
 and Ben jumped in the water and swam from here to there (or more accurately,
 from there to here). They stuck together, and had no support boat (IIRC), so it
 was pretty much literally sink or swim.  Fortunately, neither one sank.
@@ -73,7 +72,7 @@ decided (I'd been swimming a lot in a pool) to give it a go.
 
 Alice Clements had suggested bringing crisco, on the principle that it would
 protect Andy from the cold water, and both of us lathered ourselves up with it.
-Then we jumped into the water.  BlueHillBay is quite cold.
+Then we jumped into the water.  Blue Hill Bay is quite cold.
 
 We started swimming, but we didn't do as good a job as Justin & Ben at keeping
 together. I think we thought the boat could easily keep track of both of us,
@@ -91,7 +90,7 @@ magnificent triumph!
 
 There are actually some pictures from this go-round, so you can get some idea
 of what the swim looks like.  This was the first year with a bunch of people;
-It may have been the year that it got the LongIslandChallenge title.  Also,
+It may have been the year that it got the Long Island Challenge title.  Also,
 after the problems of the prior year, this running of the challenge featured a
 more organized ChaseBoats group, with one boat for each swimmer.
 
@@ -108,8 +107,7 @@ These pictures were all taken by Mary McHenry, and I hope she doesn't mind. (Mar
 ### 1998 : The Fourth Time
 
 In 1998, the Long Island Challenge happened twice, because we were badly
-organized and not everyone could be there at the same time.  So there's really
-FourthTimePartOne and FourthTimePartTwo.
+organized and not everyone could be there at the same time.
 
 #### First Running
 
@@ -148,17 +146,24 @@ Pictures.  These were taken by Robin Clements:
 
 ![alt text](images/1998/Dock-3.jpg)
 
+---
+
 ### 1999 : The Fifth Time
 
 Pictures? Description?
+
+---
 
 ### 2000 : The Sixth Time
 
 Pictures? Description?
 
+---
+
 ### 2001 : The First Granite Mon
 
-This was the first year of the Granite Mon Challenge, including the swim, the bike ride, and the climb up MountKatahdin.  
+This was the first year of the Granite Mon Challenge, including the swim, the
+bike ride, and the climb up Mount Katahdin.
 
 The swim went well; details, anyone? 
 
@@ -166,14 +171,14 @@ The bike part went well, too, unless you hold our late start against us.  It's
 pretty hard to get moving after a big swim like that.  We all met at Justin's
 house after a shower, and ate a wonderful breakfast (extremely belated
 *thanks!*).  Riders this year included Ben Walker, John Clements, Justin
-Pollard, (anyone else?) and JuanTheRemarkable.  We started in the middle of
-BlueHill, and rode northward past Penobscot, Orono, (more towns, anyone?)
-.... Our route paralleled the upper PenobscotRiver, and we had many scenic
+Pollard, (anyone else?) and Juan The Remarkable.  We started in the middle of
+Blue Hill, and rode northward past Penobscot, Orono, (more towns, anyone?)
+.... Our route paralleled the upper Penobscot River, and we had many scenic
 stops.  Some not-so-scenic stops, too.
 
-In a roadside accident, JohnClements munched his back wheel, and sat out the
+In a roadside accident, John Clements munched his back wheel, and sat out the
 last ten miles or so, until everyone threw in the towel and tossed the bikes in
-the back of the ChaseCars and motored up to that motel in Millinocket.
+the back of the Chase Cars and motored up to that motel in Millinocket.
 
 The next day, in our haste to get to Baxter State Park, we managed to get two
 speeding tickets for three vehicles.  Actually, it would have been three
@@ -313,6 +318,8 @@ Participants:
 - John Clements
 - Andy Wanning (Andy, can you confirm this?)
 - Justin, were you there?
+
+x
 
 ### 2009
 
