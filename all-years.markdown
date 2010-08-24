@@ -50,7 +50,7 @@ contribute your memories and your pictures by e-mailing them
 to <aoeugranitemon@brinckerhoff.org>.
 
 ---
-  
+
 ### 1995 : The First Time
 
 Really, Justin or Ben could tell you more than I (John Clements) could.  Justin
@@ -110,6 +110,8 @@ These pictures were all taken by Mary McHenry, and I hope she doesn't mind. (Mar
 ![alt text](images/1997/Post-2.jpg)
 
 ![alt text](images/1997/jbc-in-water.jpg)
+
+---
 
 ### 1998 : The Fourth Time
 
@@ -262,9 +264,12 @@ This picture (and the prior one) were taken by Wing Taylor, despite his appearin
 
 ![alt text](images/2003/lic-03-reg.jpg)
 
-@h3 The Ride
-
-The post-swim break was leisurely and lengthy, and at noon, there was a lively discussion about whether to bike at all.  I was out of the bike part (and the climb part) in either case, because of the aforementioned bike wreck.  The intrepid crew
+The ride:
+  
+The post-swim break was leisurely and lengthy, and at noon, there was a lively
+discussion about whether to bike at all.  I was out of the bike part (and the
+climb part) in either case, because of the aforementioned bike wreck.  The
+intrepid crew
 
 - JustinPollard
 - Ben Walker
@@ -275,11 +280,11 @@ I took all their bicycles away and they drove north toward East Millinocket.
 
 Here's a picture of the three of them:
 
-[html <img src="images/2003/3 dogs.jpg">]
+![alt](images/2003/3 dogs.jpg)
 
 All of these pictures were taken by Abby... oh dear, I don't know her last name.  Anyone?
 
-@h3 The Climb
+The Climb:
 
 Well, I wasn't there, so I really can't say much; the day was unbelievably
 cold, with an early-season cold front blasting Canadian air down as far as Blue
@@ -287,21 +292,23 @@ Hill.  Evidently, the conditions on the mountain made it more or less
 un-climb-able.  Details, anyone?  Fortunately, Abby took a bunch of
 pictures. Here's one of Abby:
 
-[html <img src="images/2003/Abby.jpg">]
+![alt](images/2003/Abby.jpg)
 
 As I wasn't here, I can only guess at a chronological ordering on these.  Here's one labeled "lunch":
 
-[html <img src="images/2003/3 dogs-lunch.jpg">]
+![alt](images/2003/3 dogs-lunch.jpg)
 
 Here's one of the lads in front of the mountain:
 
-[html <img src="images/2003/3 dogs & mtn.jpg">]
+![alt](images/2003/3 dogs & mtn.jpg)
 
 And finally, two pictures of the atmospheric conditions that made the final ascent impossible:
 
-[html <img src="images/2003/Mtn valley.jpg">]
+![alt](images/2003/Mtn valley.jpg)
 
-[html <img src="images/2003/Mtn clouds.jpg">]
+![alt](images/2003/Mtn clouds.jpg)
+
+---
 
 ### 2004 : The Fourth Granite Mon
 
@@ -309,11 +316,19 @@ Please, tell us anything you know about the upcoming 2004 Granite Mon Challenge.
 
 Please?
 
+---
+
 ### 2005 : The Fifth Granite Mon
+
+---
 
 ### 2006 : The Sixth Granite Mon
 
+---
+
 ### 2007
+
+---
 
 ### 2008
 
@@ -330,13 +345,15 @@ Participants:
 - Andy Wanning (Andy, can you confirm this?)
 - Justin, were you there?
 
-x
+---
 
 ### 2009
 
 John Clements swam early and short with Erin Taylor from Jim Point across to High Head.
 
 Later, there was a more serious swim... and climb? More research required.
+
+---
 
 ### 2010 :
 
@@ -356,7 +373,9 @@ Participants:
 - Justin Pollard
 - Andy Wanning
 
-## Participants
+---
+
+## All Participants Ever
 
 In alphabetical order, an incomplete list of all participants in the Long Island Challenge. Please add to this list:
 
