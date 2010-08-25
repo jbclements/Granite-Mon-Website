@@ -315,20 +315,6 @@ And finally, two pictures of the atmospheric conditions that made the final asce
 Experimenting!
 
 <!-- Start of Flickr Badge -->
-<style type="text/css">
-#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
-#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
-#flickr_icon_td {padding:0 5px 0 0 !important;}
-.flickr_badge_image {text-align:center !important;}
-.flickr_badge_image img {border: 1px solid black !important;}
-#flickr_www {display:block; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
-#flickr_badge_uber_wrapper a:hover,
-#flickr_badge_uber_wrapper a:link,
-#flickr_badge_uber_wrapper a:active,
-#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
-#flickr_badge_wrapper {background-color:#ffffff;border: solid 1px #000000}
-#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}
-</style>
 <table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td><a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a><table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
 <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=5&display=random&size=t&layout=h&source=user_set&user=14818860%40N00&set=1183647&context=in%2Fset-1183647%2F"></script>
@@ -341,6 +327,17 @@ Experimenting!
 ---
 
 ### 2005 : The Fifth Granite Mon
+
+#### Pictures
+
+<!-- Start of Flickr Badge -->
+<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td><a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a><table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=5&display=latest&size=t&layout=h&source=user_set&user=14818860%40N00&set=72157624677347899&context=in%2Fset-72157624677347899%2F"></script>
+</tr>
+</table>
+</td></tr></table>
+<!-- End of Flickr Badge -->
 
 Andy writes:
 
@@ -368,7 +365,7 @@ forget the name, and had a really nice meal there.  So that all worked out
 pretty well.
 
 
-But of course I digress.  The swim was, in two words, f*cking freezing.  I
+But of course I digress.  The swim was, in two words, f\*cking freezing.  I
 would have given my left nut (and very nearly did to frostbite) to have that
 nifty little wetsuit of yours.  Just getting out of the boat at Long Island and
 picking around the rocks & seaweed while applying generous amounts of Crisco
@@ -384,14 +381,14 @@ to give me the can of Crisco so I could re-apply the stuff on my face.
 So I lasted maybe half an hour, as did Justin, as the other skinny guy.  I got
 into Sara’s boat, and my teeth started chattering a few minutes later, and
 didn’t stop until we got to the Becton’s dock another hour or whatever later.
-So, just in case you were wondering, we were F*CKING COLD.  When we caught up
+So, just in case you were wondering, we were F\*CKING COLD.  When we caught up
 to Oliver, who was churning along at about 2 knots I suppose and leading the
 pack of 2, he yelled to us “how much further ‘til the dock?”, and after we told
 him, he added “My goodness it’s cold”.
 
 So he finally dragged his numb body onto the dock and sat there shivering for a
 while, but was very pleased of course to have actually finished.  Maybe 15 or
-20 minutes later, Ben calmly ascented the ladder, and when asked about the
+20 minutes later, Ben calmly ascended the ladder, and when asked about the
 temperature, said “Actually I got used to it pretty fast”, not kidding a
 smidgeon.  This provided much mirth and shocking disbelief for our band of
 swimming, well, supporters, which at this point consisted of Nate, Hillary,
