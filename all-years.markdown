@@ -23,11 +23,13 @@ hasn't yet really taken off.
 
 ## The Swim Part ##
 
-BlueHillBay is a nice place to swim.  Well, sorta.  We get up early and boat
+Blue Hill Bay is a nice place to swim.  Well, sorta.  We get up early and boat
 over and stand on the rocks and seaweed and feeling cold, and then we jump in
 because there's no real way out of it at that point.  Traditionally, we haven't
-worn WetSuits unless you call slathering your BodyInCrisco a wetsuit. But we do
-have ChaseBoats.
+worn Wet Suits unless you call slathering your body in Crisco a wetsuit. *(Ed. note:
+in more recent years, the clear trend is toward wet suits, and in 2010 three out of the
+four swimmers wore them.)* But we do
+have chase boats.
 
 Here's the route, more or less:
 
@@ -35,7 +37,7 @@ Here's the route, more or less:
 
 ## The Bike Part
 
-Then we bike from Blue Hill to Mount Katahdin.
+Then we bike from Blue Hill to Mount Katahdin. This is about 160 kilometers. 
 
 ## The Climb Part
 
@@ -146,7 +148,7 @@ This swim included four swimmers:
 
 - Byron (*gah!* what is his last name?)
 - Ann Neuhauser
-- JustinPollard
+- Justin Pollard
 - JohnClements
 
 Pictures.  These were taken by Robin Clements:
@@ -240,10 +242,10 @@ August 23, and six intrepid swimmers showed up at 6:00 am:
 
 The swim:
 
-- JustinPollard
+- Justin Pollard
 - Ben Walker
 - Andy Wanning
-- JohnClements
+- John Clements
 - Wing Taylor
 - Ted Heyd
 
@@ -265,13 +267,13 @@ This picture (and the prior one) were taken by Wing Taylor, despite his appearin
 ![alt text](images/2003/lic-03-reg.jpg)
 
 The ride:
-  
+
 The post-swim break was leisurely and lengthy, and at noon, there was a lively
 discussion about whether to bike at all.  I was out of the bike part (and the
 climb part) in either case, because of the aforementioned bike wreck.  The
 intrepid crew
 
-- JustinPollard
+- Justin Pollard
 - Ben Walker
 - Andy Wanning
 
@@ -439,13 +441,24 @@ you know the rest.
 
 ### 2007
 
+<!-- Start of Flickr Badge -->
+<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td><a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a><table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=5&display=latest&size=t&layout=h&source=user_set&user=14818860%40N00&set=72157624682154787&context=in%2Fset-72157624682154787%2F"></script>
+</tr>
+</table>
+</td></tr></table>
+<!-- End of Flickr Badge -->
+
+Andy writes:
+
 For '07, we had a successful swim in the rain.  Swimmers: me (Andy Wanning),
 Mark Read, Oliver Grantham, JP, Ben Walker, I think Jerry.
 Chaseboaters/others: Oliver's wife, his friend Sean or something, Sean(?)'s
 wife, and David who made the brunch.  I'm not sure if the others did the bike
 ride, because Lena & I stayed in BH and then saw mom's play, and then arrived
 in Medway at 1:30 am, got 2 hours of sleep, and then climbed Katahdin with
-everyone.  So yeah, successful Katahdin climb too that year. (AW)
+everyone.  So yeah, successful Katahdin climb too that year.
 
 ---
 
