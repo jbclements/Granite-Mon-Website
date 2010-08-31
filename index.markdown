@@ -7,15 +7,16 @@ The Long Island Challenge is a loosely organized annual event, and that's about
 all I can say with any real confidence.
 
 Well, okay, how about this: The Long Island Challenge, more recently the
-Granite Mon Challenge (and even more ephemerally the Granite Dog Challenge), starts
-with a three-mile swim from Long Island (in Blue Hill Bay) to the mouth of the
-Harbor itself.  It was the brainchild (if you really want to call it that) of
-Justin Pollard and Ben Walker, who decided to swim from ... well, from Long
-Island to the mouth of the Harbor.  Please, someone correct me if I'm
-wrong. They made it, and since then, so have a lot of others.  The event has
-moved around a bit, and more recently has included other pieces and parts, but
-is completely and utterly non-competitive.  You might call it more of an outing
-than a challenge, but it doesn't have the same ring to it.
+Granite Mon Challenge (and even more ephemerally the Granite Dog
+Challenge), starts with a three-mile swim from Long Island (in Blue Hill
+Bay) to the mouth of the Harbor itself.  It was the brainchild (if you
+really want to call it that) of Justin Pollard and Ben Walker, who
+decided to swim from ... well, from Long Island to the mouth of the
+Harbor.  Please, someone correct me if I'm wrong. They made it, and
+since then, so have a lot of others.  The event has moved around a bit,
+and more recently has included other pieces and parts, but is completely
+and utterly non-competitive.  You might call it more of an outing than a
+challenge, but that doesn't have the same ring to it.
 
 There's also been some talk of making the Long Island Challenge a benefit for
 the Blue Hill Heritage Trust.  Some money went their way last year, but this
@@ -23,21 +24,30 @@ hasn't yet really taken off.
 
 ## The Swim Part ##
 
-Blue Hill Bay is a nice place to swim.  Well, sorta.  We get up early and boat
-over and stand on the rocks and seaweed and feeling cold, and then we jump in
-because there's no real way out of it at that point.  Traditionally, we haven't
-worn Wet Suits unless you call slathering your body in Crisco a wetsuit. *(Ed. note:
-in more recent years, the clear trend is toward wet suits, and in 2010 three out of the
-four swimmers wore them.)* But we do
-have chase boats.
+Blue Hill Bay is a nice place to swim.  Well, sorta.  We get up early
+and boat over and stand on the rocks and seaweed and feeling cold, and
+then we jump in because there's no real way out of it at that point.
+Traditionally, we haven't worn [wet suits](/wet-suit/) unless you call
+slathering your body in Crisco a wetsuit. *(Ed.  note: in more recent
+years, the clear trend is toward wet suits, and in 2010 three out of the
+four swimmers wore them.)* But we do have chase boats.
 
 Here's the route, more or less:
 
 ![Little Chart](images/little-chart.jpg)
 
+The water is cold but not *that* cold; it usually hovers around 19 degrees
+celsius, but it can vary quite a bit based on recent weather; a good solid
+overnight offshore wind can bring up some really cold stuff.
+
+Also, we make the most of tidal current.  We swim at full flood, and there
+might be as much as two knots of flow.  Which, when your swim is two
+nautical miles, means that as long as you can keep pulling for an hour
+or two, you'll probably get there.
+
 ## The Bike Part
 
-Then we bike from Blue Hill to Mount Katahdin. This is about 160 kilometers. 
+Then we bike from Blue Hill to Mount Katahdin. This is about 160 kilometers.
 
 ## The Climb Part
 
