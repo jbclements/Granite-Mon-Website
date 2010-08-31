@@ -27,7 +27,7 @@ hasn't yet really taken off.
 Blue Hill Bay is a nice place to swim.  Well, sorta.  We get up early
 and boat over and stand on the rocks and seaweed and feeling cold, and
 then we jump in because there's no real way out of it at that point.
-Traditionally, we haven't worn [wet suits](/wet-suit/) unless you call
+Traditionally, we haven't worn [wet suits](/wet-suit.html/) unless you call
 slathering your body in Crisco a wetsuit. *(Ed.  note: in more recent
 years, the clear trend is toward wet suits, and in 2010 three out of the
 four swimmers wore them.)* But we do have chase boats.
