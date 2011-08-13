@@ -326,8 +326,13 @@ And finally, two pictures of the atmospheric conditions that made the final asce
 
 Experimenting!
 
-Take 3:
+Take 4:
 
+<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td><a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a><table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr>
+13</tr>
+</table>
+</td></tr></table>
 
 
 ---
