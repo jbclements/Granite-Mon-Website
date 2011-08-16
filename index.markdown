@@ -536,14 +536,33 @@ Participants:
 
 ---
 
+### 2011 :
+
+In 2011, Charlotte Clews organized either the Maine Mountain challenge or the Granite Mon
+challenge or the Long Island challenge or whatever the heck we're going to call it. It
+was a resounding success, as evidenced by this picture that I have to ask for permission
+to post.
+
+The swimmers:
+
+- Louise Bourne
+- Charlotte Clews
+- Mary Clews
+- Moira Mahon
+- Kim Parrot
+- Bahia Yackzan
+
+
 ## All Participants Ever
 
 In alphabetical order, an incomplete list of all participants in the Long Island Challenge. Please add to this list:
 
-Ooh, this list is out of date.  In Progress....
 
+- Louise Bourne
 - Anika Clements
 - John Clements
+- Charlotte Clews
+- Mary Clews
 - Oisin Curran
 - Oliver Grantham
 - David Gutcheon
@@ -551,14 +570,17 @@ Ooh, this list is out of date.  In Progress....
 - Ted Heyd
 - Bill Hinkley
 - Sean Love
+- Moira Mahon
 - Ann Neuhauser
+- Kim Parrot
 - Justin Pollard
 - Mark Read
+- Erin Taylor
 - Wing Taylor
 - Ben Walker
 - Dan Walker
 - Andy Wanning
-- Charlotte Clews
+- Bahia Yackzan
 
 ... and those who can't be alphabetical until they get a last name:
 
@@ -573,6 +595,9 @@ Challenge.  Hundreds and hundreds of hits, actually.  There's an academic
 competition for high school students, a track meet, and lots of other things
 too.  So perhaps the Granite Mon is a better choice.
 
+## Fix This Page!
 
+If you see errors or have pictures or content to contribute, send mail to [John Clements][aoeulongislandchallenge@brinckerhoff.org].
 
+Thanks!
 
