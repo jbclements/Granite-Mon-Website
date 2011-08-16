@@ -326,7 +326,7 @@ And finally, two pictures of the atmospheric conditions that made the final asce
 
 Experimenting!
 
-Take 6:
+Flickr badges not working...
 
 <!-- flickr badges not working...
 <table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0">
@@ -348,14 +348,16 @@ Take 6:
 
 #### Pictures
 
-<!-- Start of Flickr Badge -->
+Flickr badges not working...
+
+<!-- Flickr badge commented out
 <table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td><a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a><table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
 <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=5&display=latest&size=t&layout=h&source=user_set&user=14818860%40N00&set=72157624677347899&context=in%2Fset-72157624677347899%2F"></script>
 </tr>
 </table>
 </td></tr></table>
-<!-- End of Flickr Badge -->
+ End of Flickr Badge -->
 
 Andy writes:
 
@@ -443,28 +445,32 @@ you know the rest.
 
 ### 2006 : The Sixth Granite Mon
 
-<!-- Start of Flickr Badge -->
+Flickr badges not working with markdown...
+
+<!-- Start of Flickr Badge
 <table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td><a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a><table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
 <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=5&display=latest&size=t&layout=h&source=user_set&user=14818860%40N00&set=72157624801828104&context=in%2Fset-72157624801828104%2F"></script>
 </tr>
 </table>
 </td></tr></table>
-<!-- End of Flickr Badge -->
+End of Flickr Badge -->
 
 
 ---
 
 ### 2007
 
-<!-- Start of Flickr Badge -->
+Flickr badges not working...
+
+<!-- Start of Flickr Badge 
 <table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td><a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a><table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
 <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=5&display=latest&size=t&layout=h&source=user_set&user=14818860%40N00&set=72157624682154787&context=in%2Fset-72157624682154787%2F"></script>
 </tr>
 </table>
 </td></tr></table>
-<!-- End of Flickr Badge -->
+ End of Flickr Badge -->
 
 Andy writes:
 
