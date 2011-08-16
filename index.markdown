@@ -276,7 +276,7 @@ The ride:
 The post-swim break was leisurely and lengthy, and at noon, there was a lively
 discussion about whether to bike at all.  I was out of the bike part (and the
 climb part) in either case, because of the aforementioned bike wreck.  The
-intrepid crew
+intrepid crew:
 
 - Justin Pollard
 - Ben Walker
@@ -586,12 +586,16 @@ In alphabetical order, an incomplete list of all participants in the Long Island
 - Byron
 - Beka
 
+---
+
 ## Other Long Island Challenges
 
 A quick Google search turns up *lots* of things called the Long Island
 Challenge.  Hundreds and hundreds of hits, actually.  There's an academic
 competition for high school students, a track meet, and lots of other things
 too.  So perhaps the Granite Mon is a better choice.
+
+---
 
 ## Fix This Page!
 
