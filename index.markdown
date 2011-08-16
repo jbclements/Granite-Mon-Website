@@ -7,30 +7,28 @@ The Long Island Challenge is a loosely organized annual event, and that's about
 all I can say with any real confidence.
 
 Well, okay, how about this: The Long Island Challenge, more recently the
-Granite Mon Challenge (and even more ephemerally the Granite Dog
-Challenge), starts with a three-mile swim from Long Island (in Blue Hill
-Bay) to the mouth of the Harbor itself.  It was the brainchild (if you
-really want to call it that) of Justin Pollard and Ben Walker, who
-decided to swim from ... well, from Long Island to the mouth of the
-Harbor.  Please, someone correct me if I'm wrong. They made it, and
-since then, so have a lot of others.  The event has moved around a bit,
-and more recently has included other pieces and parts, but is completely
-and utterly non-competitive.  You might call it more of an outing than a
-challenge, but that doesn't have the same ring to it.
+Granite Mon Challenge starts with a three-mile swim from Long Island (in Blue Hill
+Bay) to the mouth of the harbor itself.  It was the brainchild
+of Justin Pollard and Ben Walker, who
+decided to make the swim--as far as I can tell--with zero preparation.
+They made it, and since then, so have a lot of others. In 2001, it was extended
+to include a bike trip up to Katahdin, and (the following day) a climb up it.
+
+This event is completely and utterly non-competitive.
 
 There's also been some talk of making the Long Island Challenge a benefit for
-the Blue Hill Heritage Trust.  Some money went their way last year, but this
-hasn't yet really taken off.
+the Blue Hill Heritage Trust.  Some money went their way last year (er... some year?),
+but this hasn't yet really taken off.
 
 ## The Swim Part ##
 
 Blue Hill Bay is a nice place to swim.  Well, sorta.  We get up early
 and boat over and stand on the rocks and seaweed and feeling cold, and
 then we jump in because there's no real way out of it at that point.
-Traditionally, we haven't worn [wet suits](/wet-suit.html/) unless you call
-slathering your body in Crisco a wetsuit. *(Ed.  note: in more recent
-years, the clear trend is toward wet suits, and in 2010 three out of the
-four swimmers wore them.)* But we do have chase boats.
+Traditionally, we haven't worn wet suits, relying instead on Crisco's finest.
+
+In more recent years, wet suits have been more common; in 2010, all but one
+had a wet suit, and in 2011, everyone did.
 
 Here's the route, more or less:
 
@@ -67,12 +65,9 @@ to <aoeugranitemon@brinckerhoff.org>.
 
 Really, Justin or Ben could tell you more than I (John Clements) could.  Justin
 and Ben jumped in the water and swam from here to there (or more accurately,
-from there to here). They stuck together, and had no support boat (IIRC), so it
-was pretty much literally sink or swim.  Fortunately, neither one sank.
-
-Actually, if memory serves and that is a big if, we had Matt Semler chasing us
-but in the middle of the bay he realized that he needed gas so he left us to go
-to the KYC and fuel up. (BWW)
+from there to here). They stuck together, and had (I believe) Matthew Semler
+and one other person following them. Ben suggests that he may have had to leave
+mid-swim to fuel up. Fortunately, they both made it.
 
 I'm not aware of any photos from this year.
 
@@ -82,10 +77,10 @@ I'm not aware of any photos from this year.
 
 I (John Clements) recall this episode quite vividly, as it was the first one in
 which I participated.  I was a last-minute addition, really.  Andy Wanning had
-decided (details?) to do the same swim that Justin and Ben had, and wisely
+decided to do the same swim that Justin and Ben had, and wisely
 lined up Molly and David Gutcheon and ... (?) to drive alongside him.  Well, I
 heard about it at the last minute, I had just flown up the night before, and
-decided (I'd been swimming a lot in a pool) to give it a go.
+decided to give it a go.
 
 Alice Clements had suggested bringing crisco, on the principle that it would
 protect Andy from the cold water, and both of us lathered ourselves up with it.
@@ -600,7 +595,7 @@ too.  So perhaps the Granite Mon is a better choice.
 
 ## Fix This Page!
 
-If you see errors or have pictures or content to contribute, send mail to [John Clements][aoeulongislandchallenge@brinckerhoff.org].
+If you see errors or have pictures or content to contribute, send mail to [John Clements](mailto:aoeulongislandchallenge@brinckerhoff.org).
 
 Thanks!
 
