@@ -552,6 +552,9 @@ The swimmers:
 - Kim Parrot
 - Bahia Yackzan
 
+After the swim, Charlotte biked to the base of Cadillac, and then climbed it--barefoot, no less.
+
+All in all, a spectacular and triumphant year, the more so for bringing so many new faces.
 
 ## All Participants Ever
 
