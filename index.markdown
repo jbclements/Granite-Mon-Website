@@ -61,6 +61,20 @@ to <aoeugranitemon@brinckerhoff.org>.
 
 ---
 
+### 2012 :
+
+As I write this, it's Monday, August 6th. Charlotte Clews is organizing
+this year, and it appears that there will be *two* events that include
+the swim; the Maine Mountain Challenge, and the Granite Mon. Yesterday
+was the first swim. Here's the picture:
+
+![2012 Swimmers](images/2012/granite-mon-1-swimmers-2012.jpg)
+
+There may have been a ride to Cadillac and a hike up it, but I'll
+have to wait until I hear more to write about that.
+
+---
+
 ### 2011 :
 
 In 2011, Charlotte Clews organized either the Maine Mountain challenge or the Granite Mon
