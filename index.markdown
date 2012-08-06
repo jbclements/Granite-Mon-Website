@@ -70,6 +70,22 @@ was the first swim. Here's the picture:
 
 ![2012 Swimmers](images/2012/granite-mon-1-swimmers-2012.jpg)
 
+From left, the swimmers:
+- Charlotte Clews,
+- Jerome aw heck I don't know his last name,
+- Justin Pollard,
+- John Clements,
+- Mary Clews,
+- first-time-swimmer Pat Starkey, and
+- Moira Mahon
+
+The water was extremely warm: Global Warming will kill millions of people,
+but it made Sunday morning easier. I think it was at or above 70 degrees.
+High tide wasn't until 2:00 PM, so
+we started quite late.  We met at the KYC at 9:30, and I don't think
+we started swimming until about 11:00.  We all arrived at about the same
+time; I got in at 1:28, and I think we were all in before 1:38.
+
 There may have been a ride to Cadillac and a hike up it, but I'll
 have to wait until I hear more to write about that.
 
@@ -586,6 +602,7 @@ In alphabetical order, an incomplete list of all participants in the Long Island
 - Kim Parrot
 - Justin Pollard
 - Mark Read
+- Pat Starkey
 - Erin Taylor
 - Wing Taylor
 - Ben Walker
